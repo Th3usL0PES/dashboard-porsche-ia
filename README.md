@@ -1,4 +1,4 @@
-Engenharia de Dados com Agentes de IA: Base Otimizada e Dashboard de Vendas no Excel
+
 📌 Visão Geral do Projeto
 Este projeto apresenta uma solução completa de Self-Service Business Intelligence desenvolvida na plataforma DIO. O desafio consistiu em extrair valor de uma base caótica de 100 registros de vendas da Porsche, utilizando um Agente de IA para o processo de ETL (Extract, Transform, Load) e estruturando um Dashboard Executivo de alta fidelidade diretamente no Microsoft Excel.
 
